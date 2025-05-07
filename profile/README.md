@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 welcome to Nyumbapoa
+
+This is a property managment system 
 
 <!--
 
