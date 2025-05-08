@@ -1,6 +1,7 @@
 ## Hi there 👋 welcome to Nyumbapoa
 
-This is a property managment system 
+Nyumbapoa is a trusted real estate company offering professional property management services designed to give landlords peace of mind. We handle everything from tenant placement and rent collection to maintenance and reporting, ensuring your property is well cared for and consistently profitable. With a commitment to transparency, reliability, and personalized service, Nyumbapoa makes property ownership simple and stress-free.
+
 
 <!--
 
